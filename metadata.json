@@ -1,0 +1,6 @@
+{
+  "name": "OK Repair",
+  "description": "Aplikasi portal Order Kerja OK Repair dengan dukungan cetak dokumen (window.print), upload foto dari kamera dan galeri, serta tampilan responsif portrait dan landscape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
